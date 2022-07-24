@@ -180,4 +180,4 @@ if(content === "rewhitelist") {
     }
 }
 })
-client.login("DiscordBotToken")
+client.login("OTQzNDg2MDgwNDMzMzk3ODUx.GaFR7b.XJlGka0shEJ-9YkFdz1YqzG4Z_P6u8rc3osDfQ")
